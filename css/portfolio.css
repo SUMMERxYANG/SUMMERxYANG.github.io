@@ -85,6 +85,10 @@ h6 {
   padding: 0;
 }
 
+.masthead h3 {
+  color:rgb(255, 255, 255);
+}
+
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
